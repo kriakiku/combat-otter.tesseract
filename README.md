@@ -95,7 +95,7 @@ If you need the generated files for already trained fonts, you can download and 
 
 - [Bio Sans Bold-GT.tar.bz2](https://www.icloud.com/iclouddrive/0b1LTjnh8-L4UEJASjX7JXN1A#Bio_Sans_Bold-GT) (375 MB)
 - [Bio Sans-GT.tar.bz2](https://www.icloud.com/iclouddrive/0ccOqSUZEKb72wFBC2eAwRjXA#Bio_Sans-GT) (393 MB)
-- [Stratum2 Bold-GT.tar.bz2]() (325 MB)
+- [Stratum2 Bold-GT.tar.bz2](https://www.icloud.com/iclouddrive/08a0POidxiZVe-5BDt9lsUgbg#Stratum2_Bold-GT) (325 MB)
 
 ### Step II. 
 
