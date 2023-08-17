@@ -24,9 +24,11 @@ Use one of the services: [whatfontis](https://www.whatfontis.com/?s2o), [fontsqu
 
 ## How do I find out the real name of the downloaded font?
 
-Use the `fc-scan` or `fc-list` CLI utility. You should use the `fullname` value.
+Use the `fc-scan` or `fc-list` CLI utility.
 
 #### fc-scan usage example:
+
+You should use the `fullname` value.
 
 ```sh
 # fc-scan "./fonts/Stratum2 Bold.ttf"
